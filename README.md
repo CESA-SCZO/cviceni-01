@@ -6,6 +6,8 @@
 mkdir c:\SCZO_2026
 cd C:\SCZO_2026
 git clone https://cesta.ke.forked.git.repozitari
+cd C:\SCZO_2026\cviceni-01...
+uv sync
 ```
 
 **Úkol 1:**
